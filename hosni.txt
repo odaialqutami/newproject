@@ -1,0 +1,29 @@
+frontend 
+	
+	client side 
+                 html
+		 js
+		css 
+		jq
+		an
+		reac
+		njs
+		bootstrap
+
+NOSQLDB
+	FIREBASE
+
+
+
+
+
+back end 
+
+	server side
+		DATABASE
+		MYSQL 
+		MSSQL
+		ORCAL
+			CODE
+			PHP c# vB f# JAVA PH C D 
+
